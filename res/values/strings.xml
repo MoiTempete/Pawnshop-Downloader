@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string
+		name="hello">Hello World!</string>
+	<string
+		name="app_name">Pawnshop</string>
+	<string
+		name="offer">推荐</string>
+	<string
+		name="search">搜索</string>
+	<string
+		name="local">本地</string>
+	<string
+		name="classify">分类</string>
+	<string
+		name="path">下载路径</string>
+	<string
+		name="button">下载</string>
+	<string
+		name="success">下载完成</string>
+	<string
+		name="error">下载失败</string>
+	<string
+		name="sdcarderror">SDCard不存在或者写保护</string>
+</resources>
